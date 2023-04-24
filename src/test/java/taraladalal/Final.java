@@ -273,7 +273,7 @@ package taraladalal;
 			eliminatedList.add("rapeseed oil");
 			eliminatedList.add("sunflower oil");
 			eliminatedList.add("safflower oil");
-			eliminatedList.add("doughnuts");
+			
 			eliminatedList.add("ghee");
 			//ing compare with arraylist
 			boolean isIngrediant=true;
